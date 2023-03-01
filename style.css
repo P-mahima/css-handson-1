@@ -1,0 +1,56 @@
+h1
+{
+    color:red;
+
+}
+.heading
+{
+    color:red ;
+    font-style: italic;
+    
+}
+.one
+{
+    color:crimson ;
+    font-size: large;
+}
+.two
+{
+    text-decoration-line: line-through;
+    
+    color:brown ;
+    font-size: large;
+    font-weight: bold;
+}
+.three
+{
+    color: brown ;
+    font-size: large;
+    font-weight: bold;
+    background-color: yellow;
+}
+.four
+{
+    font-style: italic; 
+    text-decoration: underline; 
+    color: brown; 
+    font-size: large;
+}
+.five
+{
+    letter-spacing: 5px;
+    color: brown;
+    font-size: large;
+}
+.para
+{
+    font-size: large;
+    color: brown;
+}
+.six
+{
+    color: brown;
+    font-style: italic;
+    font-size: large;
+    background-color: yellow;
+}
